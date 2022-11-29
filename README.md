@@ -1,5 +1,7 @@
 # Mak.ai
 
+Makai (Hindi term word for corn)
+
 Plants being the main source of income for many farmers across our country, their livelihood depends upon the yeild of plants. Corn being one of the major crop cultivated in India, our app uses Deep Learning for an early indentification of the disease, so that you can protect your crops.
 
 <h2>Model Creation</h2>
